@@ -1,0 +1,23 @@
+{
+  "name": "notes-app-queue-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint-fix": "eslint . --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@eslint/js": "^9.17.0",
+    "amqplib": "^0.10.5",
+    "auto-bind": "^4.0.0",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.17.0",
+    "eslint-config-dicodingacademy": "^0.9.4",
+    "globals": "^15.14.0",
+    "nodemailer": "^6.9.16",
+    "pg": "^8.13.1"
+  }
+}
