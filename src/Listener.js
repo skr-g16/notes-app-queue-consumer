@@ -1,4 +1,4 @@
-const autoBind = require("auto-bind");
+const autoBind = require('auto-bind');
 class Listener {
   constructor(notesServices, mailSender) {
     this._notesServices = notesServices;
