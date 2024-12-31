@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "lint-fix": "eslint . --fix"
+    "lint-fix": "eslint . --fix",
+    "consumer": "node src/consumer.js"
   },
   "keywords": [],
   "author": "",
